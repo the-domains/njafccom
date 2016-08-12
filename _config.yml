@@ -1,16 +1,16 @@
-typography_spectrum: 0.10050001414492726
+typography_spectrum: 0.01866203802637756
 color:
-  brandStrength: 0.03414909006096423
-  lightness: 0.46207765280269086
-  saturation: 0.07109389221295714
-  rhythmicContrast: 0.8924218805041164
+  brandStrength: 0.5075691817328334
+  lightness: 0.46265302738174796
+  saturation: 0.6557530160062015
+  rhythmicContrast: 0.23595017800107598
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-layout_spectrum: 0.43754935869947076
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.14809080446138978
 name: njafc
 title: Not Just  A Food Critic
 description: Foodies are natural celebs and we make them famous!
