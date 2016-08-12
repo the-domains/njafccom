@@ -1,4 +1,3 @@
-layout_spectrum: 0.43754935869947076
 typography_spectrum: 0.10050001414492726
 color:
   brandStrength: 0.03414909006096423
@@ -11,4 +10,6 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-name: njafc.com
+layout_spectrum: 0.43754935869947076
+name: njafc
+description: Foodies are natural celebs and we make them famous
